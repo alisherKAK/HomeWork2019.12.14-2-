@@ -1,0 +1,8 @@
+S:\VisualStudio\ASP\HomeWork2019.12.14(2)\HomeWork2019.12.14(2).Models\bin\Debug\HomeWork2019.12.14(2).Models.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(2)\HomeWork2019.12.14(2).Models\bin\Debug\HomeWork2019.12.14(2).Models.pdb
+S:\VisualStudio\ASP\HomeWork2019.12.14(2)\HomeWork2019.12.14(2).Models\bin\Debug\HomeWork2019.12.14(2).AbstractModels.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(2)\HomeWork2019.12.14(2).Models\bin\Debug\HomeWork2019.12.14(2).AbstractModels.pdb
+S:\VisualStudio\ASP\HomeWork2019.12.14(2)\HomeWork2019.12.14(2).Models\obj\Debug\HomeWork2019.12.14(2).Models.csprojAssemblyReference.cache
+S:\VisualStudio\ASP\HomeWork2019.12.14(2)\HomeWork2019.12.14(2).Models\obj\Debug\HomeWork2019.12.14(2).Models.csproj.CopyComplete
+S:\VisualStudio\ASP\HomeWork2019.12.14(2)\HomeWork2019.12.14(2).Models\obj\Debug\HomeWork2019.12.14(2).Models.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(2)\HomeWork2019.12.14(2).Models\obj\Debug\HomeWork2019.12.14(2).Models.pdb

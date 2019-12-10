@@ -1,0 +1,4 @@
+S:\VisualStudio\ASP\HomeWork2019.12.14(2)\HomeWork2019.12.14(2).AbstractModels\bin\Debug\HomeWork2019.12.14(2).AbstractModels.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(2)\HomeWork2019.12.14(2).AbstractModels\bin\Debug\HomeWork2019.12.14(2).AbstractModels.pdb
+S:\VisualStudio\ASP\HomeWork2019.12.14(2)\HomeWork2019.12.14(2).AbstractModels\obj\Debug\HomeWork2019.12.14(2).AbstractModels.dll
+S:\VisualStudio\ASP\HomeWork2019.12.14(2)\HomeWork2019.12.14(2).AbstractModels\obj\Debug\HomeWork2019.12.14(2).AbstractModels.pdb

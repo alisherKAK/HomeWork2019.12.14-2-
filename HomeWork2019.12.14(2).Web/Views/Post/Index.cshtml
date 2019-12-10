@@ -1,0 +1,23 @@
+﻿@model IEnumerable<HomeWork2019._12._14_2_.Models.Post>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<a href="/Post/Create/@ViewBag.Id">Create new Post</a>
+<br />
+@foreach (var post in Model)
+{
+    <div class="text-center" id="@post.Id">
+        <img src="@post.ImagePath" class="rounded"><br />
+        <p>@post.Content</p><br />
+        <i class="fa fa-thumbs-up" id="@post.Id" data-count="@post.LikeCount">
+            <div id="userId" style="visibility: hidden" data-userId="@ViewBag.Id"></div>
+            <div id="ownerId" style="visibility: hidden" data-ownerId="@post.UserId"></div>
+        </i>
+        <span id="likeCount">@post.LikeCount</span>
+    </div>
+    <hr />
+}
+
+<script src="~/Scripts/PostIndex.js"></script>

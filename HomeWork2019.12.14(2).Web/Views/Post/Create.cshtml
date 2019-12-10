@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+<form method="post">
+    <input id="userId" type="hidden" name="UserId" value="@ViewBag.Id" />
+
+    <div class="form-group">
+        <label>Image</label>
+        <input type="file" class="form-control" id="fileInput">
+        <small class="form-text text-muted">Select image</small>
+    </div>
+    <div class="form-group">
+        <label>Content</label>
+        <input type="text" class="form-control" id="contentInput">
+        <small class="form-text text-muted">Write content</small>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+<a href="/Post/Index/@ViewBag.Id">Back</a>
+
+<script src="~/Scripts/PostCreate.js"></script>
